@@ -23,7 +23,7 @@ page.includeCSS {
 
 page.jsFooterInline.800 = COA
 page.jsFooterInline.800 {
-	wrap = jQuery(document).ready(function() { jQuery('a[class*=lightbox]').fancybox({|});  });
+	wrap = jQuery(document).ready(function() { jQuery('a[class*=lightbox],a[rel*=lightbox]').fancybox({|});  });
 	10 = TEXT
 	10.value (
 		'padding' : {$plugin.cljqueryfancybox.padding},
