@@ -9,7 +9,7 @@
 What does it do?
 ^^^^^^^^^^^^^^^^
 
-This extension adds the jQuery lightbox script “FancyBox 1” or
+This extension adds the jQuery lightbox script
 “FancyBox 2” to you TYPO3 website.
 
 Features:

@@ -10,12 +10,13 @@ page.includeJSFooterlibs {
 [global]
 
 page.includeJSFooter {
-	jquery_mousewheel = EXT:cl_jquery_fancybox/fancybox2/jquery.mousewheel-3.0.6.pack.js
-	jquery_fancybox = EXT:cl_jquery_fancybox/fancybox2/jquery.fancybox.js
+	jquery_mousewheel = EXT:cl_jquery_fancybox/Resources/Public/JavaScript/jquery.mousewheel-3.0.6.pack.js
+	jquery_fancybox = EXT:cl_jquery_fancybox/Resources/Public/JavaScript/jquery.fancybox.js
+	fancybox_helper = EXT:cl_jquery_fancybox/Resources/Public/JavaScript/helper.js
 }
 
 page.includeCSS {
-	fancybox = EXT:cl_jquery_fancybox/fancybox2/jquery.fancybox.css
+	fancybox = EXT:cl_jquery_fancybox/Resources/Public/CSS/jquery.fancybox.css
 	fancybox.media = screen
 	fancybox.compress = true
 }
