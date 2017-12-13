@@ -35,6 +35,7 @@ page.jsFooterInline.800 {
 		'minHeight' : {$plugin.cljqueryfancybox.minHeight},
 		'maxWidth' : {$plugin.cljqueryfancybox.maxWidth},
 		'maxHeight' : {$plugin.cljqueryfancybox.maxHeight},
+		'pixelRatio' : {$plugin.cljqueryfancybox.pixelRatio},
 		'autoSize' : {$plugin.cljqueryfancybox.autoSize},
 		'fitToView' : {$plugin.cljqueryfancybox.fitToView},
 		'aspectRatio' : {$plugin.cljqueryfancybox.aspectRatio},
