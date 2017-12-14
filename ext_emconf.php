@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'jQuery FancyBox 1&2 for TYPO3 with many options',
 	'category' => 'fe',
 	'shy' => 0,
-	'version' => '4.0.0',
+	'version' => '4.0.1',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
@@ -28,13 +28,13 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearcacheonload' => 0,
 	'lockType' => '',
 	'author' => 'Sven Wappler',
-	'author_email' => 'typo3@wappler.systems',
+	'author_email' => 'typo3YYYY@wappler.systems',
 	'author_company' => 'WapplerSystems',
 	'CGLcompliance' => '',
 	'CGLcompliance_note' => '',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '6.2.0-7.1.99',
+			'typo3' => '7.1.0-8.7.99',
 		),
 		'conflicts' => array(
 		),

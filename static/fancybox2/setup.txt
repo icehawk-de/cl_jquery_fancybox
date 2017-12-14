@@ -80,17 +80,4 @@ page.jsFooterInline.800 {
 	)
 }
 
-# HTML5 Validität: data-fancybox-group anstatt rel verwenden
-tt_content.image.20.1.imageLinkWrap.linkParams.ATagParams.dataWrap = class="{$styles.content.imgtext.linkWrap.lightboxCssClass}" data-fancybox-group="lightbox{field:uid}"
-
-
-# tt_news
-plugin.tt_news.displaySingle.image.imageLinkWrap {
-   JSwindow = 0
-   directImageLink = 1
-   linkParams.ATagParams.dataWrap = class="{$styles.content.imgtext.linkWrap.lightboxCssClass}" data-fancybox-group="lightbox{field:uid}"
-   width = {$styles.content.imgtext.linkWrap.width}
-   height = {$styles.content.imgtext.linkWrap.height}
-}
-
 
