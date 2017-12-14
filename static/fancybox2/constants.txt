@@ -27,6 +27,9 @@ plugin.cljqueryfancybox {
 	
 	# cat=plugin.cl_jqueryfancybox; type=int+; label=maxHeight:Maximum height fancyBox should be allowed to resize to
 	maxHeight = 9999
+
+	# cat=plugin.cl_jqueryfancybox; type=int+; label=pixelRatio:Ratio for retina, set to 2 for retina density 2x 
+	pixelRatio = 1
 	
 	# cat=plugin.cl_jqueryfancybox; type=options[true,false]; label=autoSize:If set to true, for 'inline', 'ajax' and 'html' type content width/height is auto determined. If no dimensions set this may give unexpected results
 	autoSize =true
