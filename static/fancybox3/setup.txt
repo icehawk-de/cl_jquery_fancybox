@@ -57,3 +57,5 @@ page.jsFooterInline.800 {
 
 # FSC
 lib.fluidContent.settings.media.popup.linkParams.ATagParams.dataWrap = class="{$styles.content.textmedia.linkWrap.lightboxCssClass}" data-fancybox="{$styles.content.textmedia.linkWrap.lightboxRelAttribute}"
+
+lib.contentElement.settings.media.popup.linkParams.ATagParams.dataWrap = class="{$styles.content.textmedia.linkWrap.lightboxCssClass}" data-fancybox="{$styles.content.textmedia.linkWrap.lightboxRelAttribute}"
